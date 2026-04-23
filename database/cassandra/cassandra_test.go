@@ -10,7 +10,7 @@ import (
 
 import (
 	"github.com/dhui/dktest"
-	"github.com/gocql/gocql"
+	"github.com/apache/cassandra-gocql-driver/v2"
 )
 
 import (
